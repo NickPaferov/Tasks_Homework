@@ -1,0 +1,40 @@
+.button {
+    margin: 10px;
+    width: 60px;
+    background: #bbffbb;
+    color: #000088;
+    outline: none;
+}
+
+.button:focus {
+    outline: #0074D9  solid 2px;
+}
+
+.button:active {
+    background: aquamarine;
+}
+
+.active {
+    background: aqua;
+}
+
+.affair {
+    display: flex;
+}
+
+.item {
+    margin: 10px;
+    width: 100px;
+}
+
+.high {
+    color: red;
+}
+
+.middle {
+    color: orange;
+}
+
+.low {
+    color: limegreen;
+}
