@@ -1,0 +1,33 @@
+.link {
+    text-decoration: none;
+    color: cornflowerblue;
+    margin: 10px;
+}
+
+.link:hover {
+    color: crimson;
+}
+
+.activeLink {
+    color: indigo;
+    margin: 10px;
+}
+
+.block {
+    width: 21px;
+    height: 21px;
+    margin: 10px;
+    background: darkorange;
+}
+
+.header {
+    display: flex;
+    width: 280px;
+    transition-duration: 1000ms;
+    transform: translate(-220px);
+}
+
+.header:hover {
+    transition-duration: 1000ms;
+    transform: translate(0);
+}
