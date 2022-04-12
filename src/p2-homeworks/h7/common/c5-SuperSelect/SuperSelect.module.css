@@ -1,0 +1,21 @@
+.select {
+    width: 200px;
+    padding: 5px;
+    color: black;
+    background: greenyellow;
+}
+
+.select:focus {
+    outline: none;
+    border: blue solid 2px;
+}
+
+.option {
+    color: #000088;
+    background: aquamarine;
+}
+
+.option:checked {
+    color: black;
+    background: greenyellow;
+}
