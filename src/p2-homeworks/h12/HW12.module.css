@@ -14,10 +14,26 @@
     color: aqua;
 }
 
-.some {
+.green {
+    background: limegreen;
+}
+
+.green-text {
+    color: mediumblue;
+}
+
+.yellow {
+    background: yellow;
+}
+
+.yellow-text {
+    color: orangered;
+}
+
+.lightgreen {
     background: lightgreen;
 }
 
-.some-text {
+.lime-text {
     color: darkslateblue;
 }
